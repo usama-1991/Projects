@@ -1,0 +1,7 @@
+1	ahmed		30
+2	hamza		10
+3	hammad		50
+4	jado		50
+5	ali		60
+6	me		70
+11	testing		0
